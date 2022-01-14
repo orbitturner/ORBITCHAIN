@@ -1,6 +1,6 @@
-# Welcome to JOBKO's contributing guide <!-- omit in toc -->
+# Welcome to ORBITCHAIN's contributing guide <!-- omit in toc -->
 
-Thank you for investing your time in contributing to our project! Any contribution you make will be reflected on [jobko.futurize.world](https://jobko.futurize.world/) :sparkles:. 
+Thank you for investing your time in contributing to our project! Any contribution you make will be reflected on [orbitchain.orbitturner.com](https://orbitturner.com/) :sparkles:. 
 
 Read our [Code of Conduct](./CODE_OF_CONDUCT.md) to keep our community approachable and respectable.
 
@@ -40,7 +40,7 @@ Scan through our [existing issues](https://github.com/github/docs/issues) to fin
 
 Click **Make a contribution** at the bottom of any docs page to make small changes such as a typo, sentence fix, or a broken link. This takes you to the `.md` file where you can make your changes and [create a pull request](#pull-request) for a review. 
 
- <img src="./assets/images/contribution_cta.png" width="300" height="150" /> 
+ <img src="./.repo-assets/images/contribution_cta.png" width="300" height="150" /> 
 
 #### Make changes locally
 
