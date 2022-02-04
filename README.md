@@ -5,7 +5,7 @@
 [![Issues Status](https://img.shields.io/github/issues/orbitturner/ORBITCHAIN)](https://github.com/orbitturner/ORBITCHAIN)
 [![npm version](https://img.shields.io/npm/v/ORBITCHAIN.svg)](https://github.com/orbitturner/ORBITCHAIN) [![license](https://img.shields.io/npm/l/ORBITCHAIN.svg)](https://github.com/orbitturner/ORBITCHAIN)
 
-**ORBITCHAIN** is a Blockchain made by someone who is making his first steps into the Crypto and Web3 world. This is Inspired by [Anders Brownworth's Blockchain Demo](https://github.com/anders94/blockchain-demo) & Oliver Gugger.
+**ORBITCHAIN** is a Web Based Blockchain Demo made by someone who is making his first steps into the Crypto and Web3 world. This is Inspired by [Anders Brownworth's Blockchain Demo](https://github.com/anders94/blockchain-demo) & Oliver Gugger.
 
 <p align="center">
   <a href="http://orbitturner.com/"><img src="./.repo-assets/images/GITHUB-REPOS-COVER.gif" width="auto" alt="ORBITCHAIN COVER"/></a>
