@@ -52,7 +52,11 @@ ___
 * Create and Play with **`individual blocks`**.
 * **`Chain Blocks`** One by One and see how a real BlockChain is working.
 * Learn how to get money from **`Mining`** and `Proof of Work` concept.
-* Create a **`Wallet`** and make `Transactions` using your ***public/private keypair***.
+* Add explanations to most pages
+* Expert Mode that shows many details
+* Show/implement concept of mining difficulty (in Expert Mode)
+* Show duration and speed of mining process (in Expert Mode)
+* Toggle between TX/Coinbase and Data view
 * ✅ HAVE FUN !! 🥳🥳
 
 ___
