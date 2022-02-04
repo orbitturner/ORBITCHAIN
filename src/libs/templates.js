@@ -814,7 +814,7 @@ angular.module('app').run(['$templateCache', function($templateCache) {
     "<h1>ORBITCHAIN Demo</h1>\n" +
     "\n" +
     "A web-based demonstration of blockchain concepts.<br/><br/>\n" +
-    "<img src=\"../.repo-assets/images/GITHUB-REPOS-COVER.gif\" width=\"100%\">\n" +
+    "<img src=\"https://github.com/orbitturner/ORBITCHAIN/blob/main/.repo-assets/images/GITHUB-REPOS-COVER.gif?raw=true\" width=\"100%\">\n" +
     "\n" +
     "This is a complete rewrite of <a href=\"https://github.com/anders94/blockchain-demo\">Anders Brownworth's\n" +
     "  Blockchain Demo</a> & Oliver Gugger with lots of additional features.<br/>\n" +
