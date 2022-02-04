@@ -60,11 +60,7 @@ ___
 * ✅ HAVE FUN !! 🥳🥳
 
 <p align="center">
-<pre align="center">
-  <code>
-  [![Made-In-Senegal](https://github.com/GalsenDev221/made.in.senegal/blob/master/assets/badge.svg)](https://github.com/GalsenDev221/made.in.senegal)
-  </code>
-</pre>
+<a href="https://github.com/GalsenDev221/made.in.senegal"><img src="https://github.com/GalsenDev221/made.in.senegal/blob/master/assets/badge.svg"></a>
 </p>
 ___
 
