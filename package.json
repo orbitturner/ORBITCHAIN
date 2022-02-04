@@ -1,0 +1,36 @@
+{
+  "name": "orbitchain",
+  "version": "1.0.1",
+  "description": "The Blockchain Demo made by someone who is making his first steps into the Crypto and Web3 world and inspired by Other Master devs on GitHub.",
+  "author": "Orbit Turner",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orbitturner/ORBITCHAIN.git"
+  },
+  "bugs": {
+    "url": "https://github.com/orbitturner/ORBITCHAIN/issues"
+  },
+  "homepage": "https://github.com/orbitturner/ORBITCHAIN#readme",
+  "files": [
+    "src"
+  ],
+  "license": "GPL-3.0",
+  "keywords": [
+    "blockchain",
+    "crypto",
+    "nodejs"
+  ],
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "templates": "grunt ngtemplates"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babelify": "^8.0.0",
+    "grunt": "^1.3.0",
+    "grunt-angular-templates": "^1.1.0",
+    "grunt-cli": "^1.3.2"
+  }
+}

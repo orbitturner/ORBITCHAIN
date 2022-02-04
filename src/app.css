@@ -1,0 +1,306 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+html {
+    position: relative;
+    min-height: 100%;
+    height: 100%;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #888;
+    line-height: 18px;
+}
+
+body app > .container {
+    padding: 60px 15px 0;
+}
+
+.container .text-muted {
+    margin: 20px 0;
+}
+
+body app > .container-fluid {
+    padding: 60px 15px 0;
+}
+
+.container-fluid .text-muted {
+    margin: 20px 0;
+}
+
+input, textarea, pre, .form-control {
+    font-family: monospace;
+    font-size: 13px;
+}
+
+block .well-sm {
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.panel .panel-body, intro-page {
+    line-height: 24px;
+}
+
+.well-success {
+    transition: background 0.6s;
+    background: rgba(147, 255, 75, 0.27);
+}
+
+.well-error {
+    transition: background 0.6s;
+    background: rgba(238, 4, 30, 0.21);
+}
+
+.github-ribbon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border: 0;
+    z-index: 20000;
+}
+
+.navbar-text {
+    margin-top: 10px;
+    margin-bottom: 8px;
+}
+
+.navbar-brand {
+    font-family: 'Permanent Marker', cursive;
+}
+
+h1 chain-info, h3 peer-info {
+    font-size: 14px;
+    font-family: monospace;
+    padding-left: 5px;
+}
+
+strong {
+    font-weight: 700;
+}
+
+a, a:hover, a:focus {
+    color: #89cc2d;
+    text-decoration: none;
+    -o-transition: all .6s;
+    -moz-transition: all .6s;
+    -webkit-transition: all .6s;
+    -ms-transition: all .6s;
+    transition: all .6s;
+    cursor: pointer;
+}
+
+h1, h2 {
+    margin-top: 10px;
+    font-size: 36px;
+    font-weight: 700;
+    color: #5a4d45;
+    line-height: 44px;
+}
+
+h3 {
+    font-size: 22px;
+    font-weight: 400;
+    color: #5a4d45;
+    line-height: 30px;
+}
+
+img {
+    max-width: 100%;
+}
+
+.medium-paragraph {
+    font-size: 18px;
+    line-height: 32px;
+}
+
+::-moz-selection {
+    background: #89cc2d;
+    color: #fff;
+    text-shadow: none;
+}
+
+::selection {
+    background: #89cc2d;
+    color: #fff;
+    text-shadow: none;
+}
+
+.navbar {
+    margin-bottom: 0;
+    /* background: #5a4d45; */
+    background: #00;
+    border: 0;
+    -moz-border-radius: 0;
+    -webkit-border-radius: 0;
+    border-radius: 0;
+    -o-transition: all .6s;
+    -moz-transition: all .6s;
+    -webkit-transition: all .6s;
+    -ms-transition: all .6s;
+    transition: all .6s;
+}
+
+ul.navbar-nav {
+    font-size: 15px;
+    color: #fff;
+}
+
+.navbar-inverse ul.navbar-nav li a {
+    color: #fff;
+    opacity: 0.8;
+    border: 0;
+}
+
+.navbar-inverse ul.navbar-nav li a:hover {
+    color: #fff;
+    opacity: 1;
+    border: 0;
+}
+
+.navbar-inverse ul.navbar-nav li a:focus {
+    color: #fff;
+    outline: 0;
+    opacity: 1;
+    border: 0;
+}
+
+.dropdown-menu {
+    background-color: #5a4d45;
+}
+
+.dropdown-menu > li > a:hover,
+.dropdown-menu > .active > a,
+.dropdown-menu > .active > a:hover {
+    color: #fff;
+    background: #000;
+}
+
+:not(.input-group-btn) > button.btn {
+    height: 40px;
+    margin: 0;
+    padding: 0 15px;
+    vertical-align: middle;
+    background: #89cc2d;
+    border: 0;
+    font-family: 'Raleway', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 40px;
+    color: #fff;
+    -moz-border-radius: 0;
+    -webkit-border-radius: 0;
+    border-radius: 0;
+    text-shadow: none;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    -o-transition: all .6s;
+    -moz-transition: all .6s;
+    -webkit-transition: all .6s;
+    -ms-transition: all .6s;
+    transition: all .6s;
+}
+
+.input-group-btn button.btn {
+    font-family: 'Raleway', sans-serif;
+    background: #89cc2d;
+    color: #fff;
+    border: 1px solid #89cc2d;
+    text-shadow: none;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    -o-transition: all .6s;
+    -moz-transition: all .6s;
+    -webkit-transition: all .6s;
+    -ms-transition: all .6s;
+    transition: all .6s;
+}
+
+.input-group[class*=col-] {
+    padding-right: 15px;
+}
+
+span.input-group-addon {
+    font-size: 13px;
+}
+
+.form-control[disabled], .form-control[readonly], fieldset[disabled] .form-control, fieldset[readonly] .form-control {
+    cursor: text;
+}
+
+button.btn:hover {
+    opacity: 0.6;
+    color: #fff;
+}
+
+button.btn:active {
+    outline: 0;
+    opacity: 0.6;
+    color: #fff;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+button.btn:focus {
+    outline: 0;
+    opacity: 0.6;
+    background: #89cc2d;
+    color: #fff;
+}
+
+button.btn:active:focus, button.btn.active:focus {
+    outline: 0;
+    opacity: 0.6;
+    background: #89cc2d;
+    color: #fff;
+}
+
+button i {
+    padding-left: 5px;
+    vertical-align: middle;
+    font-size: 20px;
+    line-height: 20px;
+}
+
+.no-left-padding {
+    padding-left: 0;
+}
+
+svg .link {
+    fill: none;
+    stroke: #ccc;
+    stroke-width: 1.5px;
+}
+
+div.tooltip {
+    position: absolute;
+    min-width: 400px;
+    min-height: 50px;
+    pointer-events: none;
+}
+
+hr {
+    color: black;
+    border-bottom: 1px solid black;
+}
+
+div.as-block.input-group {
+  display: inline-block;
+  float: left;
+}
+
+div.as-block.input-group span {
+  line-height: 20px;
+}
+
+div.as-block.input-group input,
+div.as-block.input-group span,
+div.as-block.input-group select.form-control {
+  display: inline-block;
+  float: left;
+}

@@ -5,7 +5,7 @@
 [![Issues Status](https://img.shields.io/github/issues/orbitturner/ORBITCHAIN)](https://github.com/orbitturner/ORBITCHAIN)
 [![npm version](https://img.shields.io/npm/v/ORBITCHAIN.svg)](https://github.com/orbitturner/ORBITCHAIN) [![license](https://img.shields.io/npm/l/ORBITCHAIN.svg)](https://github.com/orbitturner/ORBITCHAIN)
 
-**ORBITCHAIN** is a Blockchain made by someone who is making his first steps into the Crypto and Web3 world.
+**ORBITCHAIN** is a Blockchain made by someone who is making his first steps into the Crypto and Web3 world. This is Inspired by https://blockchaindemo.io/
 
 <p align="center">
   <a href="http://orbitturner.com/"><img src="./.repo-assets/images/GITHUB-REPOS-COVER.gif" width="auto" alt="ORBITCHAIN COVER"/></a>
@@ -40,7 +40,7 @@ ___
 
 ## 💨 What is this for? 🤔
 
-**ORBITCHAIN** is a A simple `blockchain` and `cryptocurrency wallet` implemented in Node.js and TypeScript (***for learning purposes***).
+**ORBITCHAIN** is a A simple `blockchain` implemented in JS (***for learning purposes***).
 
 
 > **Note:** This repository can evolve and become a web platform or anything in the future i'm starting with basic stuff but whatever you'll see was not planned 🤦🏿‍♂️.
@@ -60,20 +60,19 @@ ___
 ## 📥 HOW TO RUN IT ? 🔰
 
 ```bash
-# 1 - CLONE
-git clone <this-repo>
+# Clone this repository
+$ git clone https://github.com/orbitturner/ORBITCHAIN
 
-# 2 - Install Dependencies
-npm install
+# Go into the repository
+$ cd ORBITCHAIN
 
-# 3 - a | RUN ON DEV MODE 
-npm run dev
+# Install dependencies
+$ npm install
 
-# 3 - b | Building for Production
-vite build
+# Run the app
+$ npm start
 ```
 
-**I've used [vite](https://vitejs.dev/guide/) for managing the project, check their documentation if you wan't to leverage the project.**
 
 ___
 ## 🤔 HOW IT WORKS ? 🤔
@@ -109,7 +108,12 @@ ___
 
 * ❤❤ [IBM TECHNOLOGY](https://www.youtube.com/watch?v=QphJEO9ZX6s) ❤❤
 
+* ❤❤ [3Blue1Brown](https://youtu.be/bBC-nXj3Ng4) ❤❤
+
+* ❤❤ [Anders Brownworth](https://youtu.be/_160oMzblY8) ❤❤
+
 * ❤❤ [GALSEN DEV](https://discord.gg/zVm5gNnRnK) ❤❤
+
 
 ___
 ## Author

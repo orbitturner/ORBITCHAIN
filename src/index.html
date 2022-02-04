@@ -1,0 +1,66 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <link rel="icon" href="favicon.ico">
+
+  <!-- fonts -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:300,400,700">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+
+  <!-- bootstrap and theme -->
+  <link rel="stylesheet" href="libs/css/bootstrap.min.css">
+  <link rel="stylesheet" href="libs/css/bootstrap-theme.min.css">
+  <link rel="stylesheet" href="libs/css/bootstrap-horizon.css">
+  <link rel="stylesheet" href="libs/css/ladda-themeless.min.css">
+  <link rel="stylesheet" href="libs/css/ie10-viewport-bug-workaround.css">
+  <link rel="stylesheet" href="app.css">
+
+  <!-- Latest jQuery, Angular and Bootstrap -->
+  <script src="libs/js/jquery.min.js"></script>
+  <script src="libs/js/angular.min.js"></script>
+  <script src="libs/js/angular-route.js"></script>
+
+  <!-- other libraries -->
+  <script src="libs/js/bootstrap.min.js"></script>
+  <script src="libs/js/spin.min.js"></script>
+  <script src="libs/js/ladda.min.js"></script>
+  <script src="libs/js/ie10-viewport-bug-workaround.js"></script>
+  <script src="libs/js/ie10-viewport-bug-workaround.js"></script>
+  <script src="libs/js/sha256.js"></script>
+
+  <!-- lodash.js -->
+  <script src="libs/js/lodash.js"></script>
+
+  <!-- App -->
+  <script src="app.js"></script>
+
+  <!-- HTML templates -->
+  <script>
+    // don't load HTML templates from pre-compiled file in development mode
+    if (location.hostname !== "localhost" && location.hostname !== "127.0.0.1") {
+      document.write('<scr' + 'ipt src="libs/templates.js"></sc' + 'ript>');
+    }
+  </script>
+
+  <!-- Components -->
+  <script src="components/block/block.js"></script>
+  <script src="components/chain-info/chain-info.js"></script>
+  <script src="components/peer-info/peer-info.js"></script>
+
+  <!-- Pages -->
+  <script src="pages/intro/intro.js"></script>
+  <script src="pages/hash/hash.js"></script>
+  <script src="pages/block/block.js"></script>
+  <script src="pages/blockchain/blockchain.js"></script>
+  <script src="pages/distributed/distributed.js"></script>
+  <script src="pages/coinbase/coinbase.js"></script>
+  <script src="pages/tokens/tokens.js"></script>
+
+  <title>ORBIT CHAIN</title>
+</head>
+<body>
+<app></app>
+</body>
+</html>
