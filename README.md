@@ -59,6 +59,13 @@ ___
 * Toggle between TX/Coinbase and Data view
 * ✅ HAVE FUN !! 🥳🥳
 
+<p align="center">
+<pre align="center">
+  <code>
+  [![Made-In-Senegal](https://github.com/GalsenDev221/made.in.senegal/blob/master/assets/badge.svg)](https://github.com/GalsenDev221/made.in.senegal)
+  </code>
+</pre>
+</p>
 ___
 
 ## 📥 HOW TO RUN IT ? 🔰
